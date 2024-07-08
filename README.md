@@ -22,8 +22,8 @@ To run the application locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd Sudokusensei-solver-react
+   git clone https://github.com/prithiknataraj/Sudoku_Sensi.git
+   cd Sudoku_Sensi
    ```
 
 2. Install dependencies:
@@ -50,8 +50,8 @@ To install Sudokusensei-solver-react and its dependencies, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd Sudokusensei-solver-react
+   git clone https://github.com/prithiknataraj/Sudoku_Sensi.git
+   cd Sudoku_Sensi
    ```
 
 2. Install Python dependencies:
